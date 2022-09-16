@@ -30,10 +30,6 @@
 
 [//]: <> (语言统计图表)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayczee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-  
-[//]: <> (Github活动图表)
-  <img align="right" style="margin-right:0px" src="https://github-readme-stats.vercel.app/api?username=Jayczee&show_icons=true&theme=tokyonight&hide=prs&count_private=true&include_all_commits=true"/>
-</div>
 
 [//]: <> (GitHub活动大图表)
 <div align="center"> 

@@ -1,6 +1,6 @@
 [//]: <> (自我介绍文字)
 # - Welcome to Jayczee's github!👋
-* :computer:Here is Jayczee,a programmer newly graduated from college and a excellent software engineer in the future.
+* :computer:Just code it...
 
 * :rocket: Interested mainly in Java and still working hard to learn other kinds of skills.
 
@@ -9,8 +9,6 @@
 * :school_satchel: Major in Things of Internet.
 
 * :mailbox_with_mail: jayczee@yeah.net
-
-* :cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn:心中有党，事业理想:cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn::cn:
 
 
 

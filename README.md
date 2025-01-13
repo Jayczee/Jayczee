@@ -6,7 +6,7 @@
 
 * :house: in Yiwu , :school: in Chongqing , :office: in Hangzhou
 
-* :school_satchel: Major in Things of Internet.
+* :school_satchel: Major in IoT
 
 * :mailbox_with_mail: jayczee@yeah.net
 
